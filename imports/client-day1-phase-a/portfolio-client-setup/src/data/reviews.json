@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "client_name": "Sarah Chen",
+    "client_title": "Product Lead",
+    "company": "TechVenture Inc.",
+    "quote": "Exceptional attention to detail and a deep understanding of modern web architecture. Delivered a scalable solution that exceeded our expectations.",
+    "is_published": true,
+    "display_order": 1,
+    "created_at": "2024-01-20"
+  },
+  {
+    "id": 2,
+    "client_name": "Marcus Johnson",
+    "client_title": "CEO & Founder",
+    "company": "Innovate Labs",
+    "quote": "Not only a skilled developer, but a strategic thinker. The performance optimizations alone saved us thousands in infrastructure costs.",
+    "is_published": true,
+    "display_order": 2,
+    "created_at": "2024-02-15"
+  },
+  {
+    "id": 3,
+    "client_name": "Emma Rodriguez",
+    "client_title": "CTO",
+    "company": "Digital Nexus",
+    "quote": "Proactive, communicative, and deeply committed to code quality. A true partner in building world-class products.",
+    "is_published": true,
+    "display_order": 3,
+    "created_at": "2024-03-05"
+  }
+]

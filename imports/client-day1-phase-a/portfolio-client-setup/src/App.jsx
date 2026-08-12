@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import ProjectCard from './components/ProjectCard';
+import ProjectCard from './components/projects/ProjectCard';
 import { getProjects } from './services/projectsService';
 
 /**
@@ -93,7 +93,7 @@ function App() {
       {/* Footer Placeholder */}
       <footer className="border-t border-gray-200 py-8 px-6 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center text-gray-600 text-sm">
-          <p>&copy; 2026 Brian Baraka. All rights reserved.</p>
+          <p>&copy; 2024 Brian Baraka. All rights reserved.</p>
         </div>
       </footer>
     </div>

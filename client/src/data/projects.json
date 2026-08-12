@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform Redesign",
+    "slug": "ecommerce-platform-redesign",
+    "description": "A complete fullstack rebuild of a legacy e-commerce platform. Optimized for performance, accessibility, and modern UX patterns.",
+    "long_description": "Led the frontend architecture migration from jQuery to React, implementing a component-based design system. Integrated real-time inventory management, improved checkout flow by 40%, and reduced bundle size by 60%.",
+    "demo_url": "https://example.com/demo1",
+    "repo_url": "https://github.com/example/ecommerce",
+    "status": "published",
+    "featured": true,
+    "display_order": 1,
+    "tech_stack": [
+      { "id": 1, "name": "React", "category": "frontend" },
+      { "id": 2, "name": "TypeScript", "category": "frontend" },
+      { "id": 3, "name": "Node.js", "category": "backend" },
+      { "id": 4, "name": "PostgreSQL", "category": "backend" },
+      { "id": 5, "name": "Tailwind CSS", "category": "frontend" }
+    ],
+    "created_at": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Real-time Collaboration Dashboard",
+    "slug": "realtime-collaboration-dashboard",
+    "description": "A WebSocket-powered dashboard for teams to collaborate on projects in real-time, featuring live cursor tracking and instant updates.",
+    "long_description": "Built with Socket.io and React to enable seamless collaboration across multiple users. Implemented optimistic UI updates, conflict resolution, and a robust state synchronization layer.",
+    "demo_url": "https://example.com/demo2",
+    "repo_url": "https://github.com/example/collaboration",
+    "status": "published",
+    "featured": true,
+    "display_order": 2,
+    "tech_stack": [
+      { "id": 1, "name": "React", "category": "frontend" },
+      { "id": 6, "name": "Socket.io", "category": "backend" },
+      { "id": 3, "name": "Node.js", "category": "backend" },
+      { "id": 7, "name": "Redis", "category": "backend" },
+      { "id": 8, "name": "Framer Motion", "category": "frontend" }
+    ],
+    "created_at": "2024-02-22"
+  },
+  {
+    "id": 3,
+    "title": "AI-Powered Content Curator",
+    "slug": "ai-content-curator",
+    "description": "A web application that uses machine learning to aggregate, analyze, and personalize content recommendations for users.",
+    "long_description": "Integrated OpenAI API for content analysis and used a custom recommendation engine with user preference tracking. Implemented dark mode, accessibility compliance (WCAG AA), and lazy loading for 1000+ articles.",
+    "demo_url": "https://example.com/demo3",
+    "repo_url": "https://github.com/example/ai-curator",
+    "status": "published",
+    "featured": false,
+    "display_order": 3,
+    "tech_stack": [
+      { "id": 1, "name": "React", "category": "frontend" },
+      { "id": 9, "name": "Python", "category": "backend" },
+      { "id": 10, "name": "FastAPI", "category": "backend" },
+      { "id": 11, "name": "TensorFlow", "category": "backend" },
+      { "id": 4, "name": "PostgreSQL", "category": "backend" }
+    ],
+    "created_at": "2024-03-10"
+  }
+]
