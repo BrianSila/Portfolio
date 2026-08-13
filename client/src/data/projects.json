@@ -48,7 +48,7 @@
     "demo_url": "https://example.com/demo3",
     "repo_url": "https://github.com/example/ai-curator",
     "status": "published",
-    "featured": false,
+    "featured": true,
     "display_order": 3,
     "tech_stack": [
       { "id": 1, "name": "React", "category": "frontend" },
